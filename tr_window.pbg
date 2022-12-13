@@ -1,0 +1,36 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "tr_window.pbl" "";
+@end;
+@begin Objects
+ "u_cst_t_fin_outstanding.sru" "tr_window.pbl";
+ "u_cst_t_renewal2.sru" "tr_window.pbl";
+ "u_cst_t_polis_jaminan.sru" "tr_window.pbl";
+ "u_cst_t_polis_klausula.sru" "tr_window.pbl";
+ "u_cst_t_polis_coas.sru" "tr_window.pbl";
+ "u_cst_t_polis_fppa.sru" "tr_window.pbl";
+ "u_cst_t_renewal_r.sru" "tr_window.pbl";
+ "u_cst_t_polis_broker.sru" "tr_window.pbl";
+ "u_cst_t_klaim_r.sru" "tr_window.pbl";
+ "u_cst_t_fin_jurnal.sru" "tr_window.pbl";
+ "u_cst_t_polis_wpc.sru" "tr_window.pbl";
+ "u_cst_t_renewal.sru" "tr_window.pbl";
+ "u_cst_t_cancel.sru" "tr_window.pbl";
+ "u_cst_t_produksi_r.sru" "tr_window.pbl";
+ "u_cst_t_fin_penerimaan_kas.sru" "tr_window.pbl";
+ "u_cst_t_klaim.sru" "tr_window.pbl";
+ "u_cst_t_lob_r.sru" "tr_window.pbl";
+ "u_cst_t_fin_outstanding_kredit.sru" "tr_window.pbl";
+ "u_cst_t_polis_deductible.sru" "tr_window.pbl";
+ "u_cst_t_polis_placing_slip.sru" "tr_window.pbl";
+ "u_cst_t_fin_bukti_bayar_r.sru" "tr_window.pbl";
+ "u_cst_t_polis_info_objek.sru" "tr_window.pbl";
+ "u_cst_t_fin_pengeluaran_kas.sru" "tr_window.pbl";
+ "u_cst_t_endorsment.sru" "tr_window.pbl";
+ "u_cst_t_polis_perhitungan_premi_cancel.sru" "tr_window.pbl";
+ "u_cst_t_polis_pertanggugan.sru" "tr_window.pbl";
+ "u_cst_t_fin_outstanding_premi.sru" "tr_window.pbl";
+ "u_cst_t_fin_bukti_bayar.sru" "tr_window.pbl";
+ "u_cst_t_fin_outstanding_r.sru" "tr_window.pbl";
+ "u_cst_t_polis_perhitungan_premi.sru" "tr_window.pbl";
+@end;

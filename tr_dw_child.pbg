@@ -1,0 +1,11 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "tr_dw_child.pbl" "";
+@end;
+@begin Objects
+ "dddw_t_penagihan_premi.srd" "tr_dw_child.pbl";
+ "dddw_t_bukti_bayar.srd" "tr_dw_child.pbl";
+ "dddw_t_polis_klaim.srd" "tr_dw_child.pbl";
+ "dddw_t_polis_approve.srd" "tr_dw_child.pbl";
+ "dddw_t_polis.srd" "tr_dw_child.pbl";
+@end;

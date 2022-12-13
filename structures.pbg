@@ -1,0 +1,11 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "structures.pbl" "";
+@end;
+@begin Objects
+ "str_dddw.srs" "structures.pbl";
+ "str_input.srs" "structures.pbl";
+ "str_dw_band.srs" "structures.pbl";
+ "str_generic.srs" "structures.pbl";
+ "str_filter.srs" "structures.pbl";
+@end;

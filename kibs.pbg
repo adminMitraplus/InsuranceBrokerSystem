@@ -1,0 +1,18 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "kibs.pbl" "";
+@end;
+@begin Objects
+ "uo_inet.sru" "kibs.pbl";
+ "w_login.srw" "kibs.pbl";
+ "d_menu.srd" "kibs.pbl";
+ "kibs.sra" "kibs.pbl";
+ "w_main.srw" "kibs.pbl";
+ "w_loading_gif.srw" "kibs.pbl";
+ "u_cst_homepage.sru" "kibs.pbl";
+ "d_homepage.srd" "kibs.pbl";
+ "d_loading.srd" "kibs.pbl";
+ "dddw_login.srd" "kibs.pbl";
+ "n_cryptoapi.sru" "kibs.pbl";
+ "d_login.srd" "kibs.pbl";
+@end;

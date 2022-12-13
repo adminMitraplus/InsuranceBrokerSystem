@@ -1,0 +1,9 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "tr_object.pbl" "";
+@end;
+@begin Objects
+ "n_mapping_in.sru" "tr_object.pbl";
+ "n_interlocal.sru" "tr_object.pbl";
+ "n_endorsement.sru" "tr_object.pbl";
+@end;

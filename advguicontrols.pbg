@@ -1,0 +1,15 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "advguicontrols.pbl" "";
+@end;
+@begin Objects
+ "u_cst_paneltabpage.sru" "advguicontrols.pbl";
+ "u_cst_powerdock.sru" "advguicontrols.pbl";
+ "u_cst_tabpage.sru" "advguicontrols.pbl";
+ "u_cst_shortcutbar.sru" "advguicontrols.pbl";
+ "u_cst_panelbar.sru" "advguicontrols.pbl";
+ "u_cst_paneltab.sru" "advguicontrols.pbl";
+ "u_cst_toolbar.sru" "advguicontrols.pbl";
+ "u_cst_tab.sru" "advguicontrols.pbl";
+ "u_cst_groupbox.sru" "advguicontrols.pbl";
+@end;

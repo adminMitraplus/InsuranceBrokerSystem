@@ -1,0 +1,27 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "tr_dw_edit.pbl" "";
+@end;
+@begin Objects
+ "d_t_klaim_upload_edit.srd" "tr_dw_edit.pbl";
+ "d_t_polis_jaminan_edit.srd" "tr_dw_edit.pbl";
+ "d_t_polis_broker_edit.srd" "tr_dw_edit.pbl";
+ "d_t_pelunasan_edit.srd" "tr_dw_edit.pbl";
+ "d_t_polis_fppa_edit.srd" "tr_dw_edit.pbl";
+ "d_t_cancel_edit.srd" "tr_dw_edit.pbl";
+ "d_t_polis_coas_edit.srd" "tr_dw_edit.pbl";
+ "d_t_not_renewal_edit.srd" "tr_dw_edit.pbl";
+ "d_t_polis_wpc_edit.srd" "tr_dw_edit.pbl";
+ "d_t_endorsment_edit.srd" "tr_dw_edit.pbl";
+ "d_t_klaim_approve_edit.srd" "tr_dw_edit.pbl";
+ "d_t_bukti_bayar_edit.srd" "tr_dw_edit.pbl";
+ "d_t_klaim_edit.srd" "tr_dw_edit.pbl";
+ "d_t_polis_objek_detail_edit.srd" "tr_dw_edit.pbl";
+ "d_t_pelunasan_detail_edit.srd" "tr_dw_edit.pbl";
+ "d_t_polis_deductible_edit.srd" "tr_dw_edit.pbl";
+ "d_t_polis_fppa_detail_edit.srd" "tr_dw_edit.pbl";
+ "d_t_jurnal_1_edit.srd" "tr_dw_edit.pbl";
+ "d_t_jurnal_2_edit.srd" "tr_dw_edit.pbl";
+ "d_t_polis_pertanggungan_edit.srd" "tr_dw_edit.pbl";
+ "d_t_polis_klausula_edit.srd" "tr_dw_edit.pbl";
+@end;
